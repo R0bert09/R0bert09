@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Roberto Laínez and I'm a UX/UI Desing and Frontend Developer.</p>
 
 ###
 
